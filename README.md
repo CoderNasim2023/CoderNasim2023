@@ -1,39 +1,82 @@
-[# codernasim2003]
-<h1 align="center">Hi Folks 👋, I'm Md Nasim AKhtar</h1>
-<h3 align="center">A passionate  Full Stack  Developer from India</h3>
+<!--horizontal divider(gradiant)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<!--profile visit count-->
 
-<p align="left"> <img src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" /> </p>
+![followers](https://img.shields.io/github/followers/sidharthhhh?style=social) ![stars](https://img.shields.io/github/stars/sidharthhhh?style=social) <img src="https://komarev.com/ghpvc/?username=sidharthhhh&label=Profile%20views&color=ce9927&style=flat" />
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=codernasim2023" alt="codernasim2023" /></a> </p>
+<h1 align="center"> <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 40px></picture>  Hi , I'm Md Nasim Akhtar </b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1> 
+<img https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif/>
+<div align="center">
+	
+![github contribution grid snake animation](https://raw.githubusercontent.com/itsmeshibintmz/itsmeshibintmz/8c4c442a1c6a6c7b963e5d473e5aec52c42b5ea3/github-contribution-grid-snake-sissa.svg#gh)
+</div>
 
-<p align="left"> <a href="https://twitter.com/itsnasim254" target="blank"><img src="https://img.shields.io/twitter/follow/itsnasim254?logo=twitter&style=for-the-badge" alt="itsnasim254" /></a> </p>
+## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 
-- 🔭 I’m currently working on *Full Stack Application  developement **
+<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 300px></picture>
 
-- 🌱 I’m currently learning **React,js,Node JS, Junit testing WEB-3 , Blockchain's, NFTs etc **
-- 🔭 I’m currently pursuing Computer Science from  Maulana Abul Kalam Azad  University of tech, Kolkata.
+ Remote Full-Stack Engineer passionate about building Robust, maintainable, reliable, web appplication that can  properly handles form 0 tp 1 million+ users  concurrently at at  time.
 
-🌱 I’m learning Data Structures and Algorithms & Full Stack Development.
+I had did my hands dirty with a  gooa amount  of  Hands-on experience in  Docker, CI-CD ,  Kubernetes, Terraform, Linux, Git, Jenkins, Grafana, Prometheus,JS, React , Go , Python, Jupyter , Collab Notebook  and more.
 
-- 👯 I’m currently looking to collaborate deeply  on **Full Stack Devlopment**
+Work extensively with AWS services to design, automate, and optimize cloud infrastructures.
 
-- 🤝 I’m looking for help with Full Stack developmnt projects **
+Experienced in monitoring, production deployement, logging, CI/CD pipelines, RabbitMq, Kafka queue
 
-- 💬 Ask me about **React,js,java,C,C++,ETc**
+Strong foundation in Full-stack web development with experience in React.js, Next.js, Node.js, REST APIs, and backend engineering.
+Let's connect  with mine on X , Insta. 
+Sharing tech content on Insta daily follow now 
+<br><br>
+<div align="center">
+  <p>
+    <a href="https://x.com/ItsNasim254" target="_blank">🐦 Let's  Connect on X </a>
+    <br/>
+    <a href="https://instagram.com/ItsNasim254" title="Instagram" target="_blank">Instagram </a>
+  </p>
+</div>
 
-- 📫 How to reach me **Mdnasim259@outlook.com** And You can Also coonnect me on Linkedin 
+<!--icons and links-->
+<p align="center">
+<a href="https://www.linkedin.com/in/sidharth-shukla-a7a32320a/ target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
+<a href="https://x.com/itsNasim254" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234980676-61bfb021-ecc8-48f7-88e6-34c1b06c4a58.png" alt="twitter" height="50" width="50" /></a> 
+<a href="https://www.instagram.com/itsnasim254/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234981169-2dd1e58f-4b7e-468c-8213-034ba62156c3.png" alt="instagram" height="50" width="50" /></a>
+<!-- <a href="https://hashnode.com/@sidharth007" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234982196-562aea17-5532-4550-8c08-1c7cb994a541.png" alt="hashnode" height="50" width="50" /></a>
+<a href="https://discord.com/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234982627-019fd336-6248-453c-9b05-97c13fd1d207.png" alt="discord" height="50" width="50" /></a> -->
+  
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/itsnasim254" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="itsnasim254" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/mdnasimakhtar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mdnasimakhtar" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/itsnasim254" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="itsnasim254" height="30" width="40" /></a>
-<a href="https://fb.com/md nasim akhtas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="md nasim akhtas" height="30" width="40" /></a>
-</p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=codernasim2023&show_icons=true&locale=en&layout=compact" alt="codernasim2023" /></p>
+<div align="center">
+😜<b>Here's a Joke for you:</b>
+	
+![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=codernasim2023&show_icons=true&locale=en" alt="codernasim2023" /></p>)
+</div>
+
+<!-- <div align="center">
+<br>
+  <img src="https://github-readme-stats.vercel.app/api?username=sidharthhhh&show_icons=true&theme=tokyonight" height="180" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sidharthhhh&layout=compact&theme=tokyonight" height="180" alt="languages" />
+</div> -->
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=CoderNasim2023&theme=tokyonight-duo" alt="streak" />
+</div>
+<br>
+
+<div align="center">
+	
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CoderNasim2023&theme=city_lights)
+
+</div>
+
+
+
+
+
+
+<!-- <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/sidharthhhh/sidharthhhh/blob/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/sidharthhhh/sidharthhhh/blob/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture> -->
+

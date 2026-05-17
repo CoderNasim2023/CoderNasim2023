@@ -15,7 +15,7 @@
 
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 300px></picture>
 
- Remote Full-Stack Engineer passionate about building Robust, maintainable, reliable, web appplication that can  properly handles form 0 tp 1 million+ users  concurrently at at  time.
+ Remote Full-Stack Engineer passionate about building Robust, maintainable, reliable, web appplication that can  properly handles  1 million+ users  concurrently
 
 I had did my hands dirty with a  gooa amount  of  Hands-on experience in  Docker, CI-CD ,  Kubernetes, Terraform, Linux, Git, Jenkins, Grafana, Prometheus,JS, React , Go , Python, Jupyter , Collab Notebook  and more.
 

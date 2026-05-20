@@ -2,7 +2,10 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <!--profile visit count-->
 
-![followers](https://img.shields.io/github/followers/sidharthhhh?style=social) ![stars](https://img.shields.io/github/stars/sidharthhhh?style=social) <img src="https://komarev.com/ghpvc/?username=sidharthhhh&label=Profile%20views&color=ce9927&style=flat" />
+![followers](https://img.shields.io/github/followers/CoderNasim2023?style=social) 
+![stars](https://img.shields.io/github/stars/CoderNasim2023?style=social) 
+<img src="https://komarev.com/ghpvc/?username=CoderNasim2023&label=Profile%20views&color=ce9927&style=flat" />
+
 
 <h1 align="center"> <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 40px></picture>  Hi , I'm Md Nasim Akhtar </b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1> 
 <img https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif/>

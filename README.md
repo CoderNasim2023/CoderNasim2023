@@ -72,6 +72,11 @@ Sharing tech content on Insta daily follow now
 
 </div>
 
+** Live user analytics**   
+ 
+[![Contribute View](https://ip-map-counter.vercel.app/api/badge?username=CoderNasim2023)](https://ip-map-counter.vercel.app/?username=CoderNasim2023)
+
+[![Website Analytics](https://ip-map-counter.vercel.app/api/dashboard?username=CoderNasim2023)](https://ip-map-counter.vercel.app/?username=CoderNasim2023)
 
 
 

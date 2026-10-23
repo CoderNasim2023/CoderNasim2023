@@ -18,17 +18,15 @@
 
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 300px></picture>
 
- Remote Full-Stack Engineer passionate about building Robust, maintainable, reliable, web appplication that can  properly handles  1 million+ users  concurrently
+ A Remote Full-Stack Engineer passionate about building Robust, maintainable, reliable, web appplication that can  properly handles  1 million+ users  concurrently
 
-I had did my hands dirty with a  gooa amount  of  Hands-on experience in  Docker, CI-CD ,  Kubernetes, Terraform, Linux, Git, Jenkins, Grafana, Prometheus,JS, React , Go , Python, Jupyter , Collab Notebook  and more.
-
-Work extensively with AWS services to design, automate, and optimize cloud infrastructures.
+I had did my hands dirty with Hands-on experience in  Docker, CI-CD ,  Kubernetes, Terraform, Linux, Git, Jenkins, JS, React , Go , Python, rust and more.
 
 Experienced in monitoring, production deployement, logging, CI/CD pipelines, RabbitMq, Kafka queue
 
 Strong foundation in Full-stack web development with experience in React.js, Next.js, Node.js, REST APIs, and backend engineering.
-Let's connect  with mine on X , Insta. 
-Sharing tech content on Insta daily follow now 
+Let's connect  on X , Insta. 
+Sharing tech content on Insta, X
 <br><br>
 <div align="center">
   <p>
@@ -40,7 +38,7 @@ Sharing tech content on Insta daily follow now
 
 <!--icons and links-->
 <p align="center">
-<a href="https://www.linkedin.com/in/sidharth-shukla-a7a32320a/ target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
+<a href="https://www.linkedin.com/in/mdnasimakhtar/ target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
 <a href="https://x.com/itsNasim254" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234980676-61bfb021-ecc8-48f7-88e6-34c1b06c4a58.png" alt="twitter" height="50" width="50" /></a> 
 <a href="https://www.instagram.com/itsnasim254/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234981169-2dd1e58f-4b7e-468c-8213-034ba62156c3.png" alt="instagram" height="50" width="50" /></a>
 <!-- <a href="https://hashnode.com/@sidharth007" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234982196-562aea17-5532-4550-8c08-1c7cb994a541.png" alt="hashnode" height="50" width="50" /></a>
